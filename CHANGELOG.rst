@@ -6,7 +6,7 @@ Changelog
 3.7.3 (unreleased)
 ==================
 
-* ...
+* Fixed permission denied error after page create
 
 
 3.7.2 (2020-04-22)
